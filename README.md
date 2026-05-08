@@ -1,0 +1,1 @@
+This dataset contain information documents that form part of the data used in the research titled:Re-evaluating the Drivers of Urban Housing Affordability from a Construction Cost Perspective: Evidence from the Emerging Real Estate Market.The data shows how raw data was solicited from the study locations.
